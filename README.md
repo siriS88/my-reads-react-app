@@ -1,3 +1,6 @@
+# Intro
+This project is developed as part of the Udacity React Nanodegree and uses code provided as part of this program.
+
 # MyReads Project Overview
 
 This is the MyReads Project using React. It allows a user to organize books into bookshelves based on
